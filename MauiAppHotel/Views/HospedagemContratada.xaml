@@ -7,7 +7,7 @@
     <VerticalStackLayout VerticalOptions="CenterAndExpand">
 
         <Label Text="Suíte Super Luxo"
-               TextColor="{StaticResource Tertiary}"
+               TextColor="{StaticResource Black}"
                FontFamily="Lora"
                FontSize="50"
                HorizontalTextAlignment="Center"/>
@@ -35,9 +35,9 @@
                 <Label Grid.Row="0" Grid.Column="1" Text="Check-out:" />
                 <Label Grid.Row="0" Grid.Column="2" Text="Estadia:" />
 
-                <Label Grid.Row="1" Grid.Column="0" Text="27/05/24" />
-                <Label Grid.Row="1" Grid.Column="1" Text="30/05/24" />
-                <Label Grid.Row="1" Grid.Column="2" Text="3" />
+                <Label Grid.Row="1" Grid.Column="0" Text="08/11/24" />
+                <Label Grid.Row="1" Grid.Column="1" Text="09/11/24" />
+                <Label Grid.Row="1" Grid.Column="2" Text="1" />
             </Grid>
         </Frame>
 

@@ -29,7 +29,7 @@
 
         <StackLayout Spacing="25">
 
-           <Button Text="Retornar" VerticalOptions="End" Clicked="Button_Clicked" />
+            <Button Text="Retornar" VerticalOptions="End" HorizontalOptions="Center" Clicked="Button_Clicked" />
             
         </StackLayout>
             
